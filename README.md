@@ -1,2 +1,4 @@
-# mxgraph-php
-PHP backend model for mxGraph. The model was updated up to mxGraph version 4.0.3, but not updated after that. If anyone wants to take the PHP model code over, be our guest and fork.
+# Mxgraph php
+This is a fork of the original repo. This fork will add composer support and PSR-4 autoloading.
+
+The model is compatible with version 4.0.3
