@@ -1,6 +1,7 @@
 {
   "name": "exbsoftware/mxgraph",
   "description": "EXB Mxgraph fork",
+  "license": "Apache-2.0",
   "require": {
     "ext-libxml": "*",
     "ext-xml": "*",
