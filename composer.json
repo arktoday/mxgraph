@@ -1,6 +1,6 @@
 {
-  "name": "exbsoftware/mxgraph",
-  "description": "EXB Mxgraph fork",
+  "name": "arktoday/mxgraph",
+  "description": "arktoday Mxgraph fork",
   "license": "Apache-2.0",
   "require": {
     "ext-libxml": "*",
@@ -9,8 +9,8 @@
   },
   "authors": [
     {
-      "name": "Emiel van Goor",
-      "email": "e.goor@exb-software.com"
+      "name": "Arkadiy",
+      "email": "suzdaltsevarkadiy@gmail.com"
     }
   ],
   "autoload": {
